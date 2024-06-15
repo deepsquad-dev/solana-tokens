@@ -1,0 +1,12 @@
+{
+    "name": "PILGRIM",
+    "symbol": "PIL",
+    "description": "Solana MEME Token",
+    "image": "https://github.com/deepsquad-dev/solana-tokens/new/main/assets/image.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+}
